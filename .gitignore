@@ -1,0 +1,9 @@
+# Excluir todo
+*
+
+# Incluir solo estos archivos específicos
+!restart-n8n-auto.ps1
+!READEM.md
+
+# Asegurar que .gitignore también se incluya
+!.gitignore

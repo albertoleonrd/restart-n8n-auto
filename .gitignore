@@ -3,7 +3,7 @@
 
 # Incluir solo estos archivos específicos
 !restart-n8n.ps1
-!READEM.md
+!README.md
 
 # Asegurar que .gitignore también se incluya
 !.gitignore

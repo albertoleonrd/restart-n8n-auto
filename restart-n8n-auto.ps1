@@ -196,7 +196,7 @@ try {
       -e QUEUE_BULL_REDIS_HOST=redis `
       -e QUEUE_BULL_REDIS_PORT=6379 `
       -e QUEUE_BULL_REDIS_DB=0 `
-      -e EXECUTIONS_MODE=queue `
+      -e EXECUTIONS_MODE=regular `
       -e QUEUE_HEALTH_CHECK_ACTIVE=true `
       -e N8N_BASIC_AUTH_ACTIVE=true `
       -e N8N_BASIC_AUTH_USER=admin `
